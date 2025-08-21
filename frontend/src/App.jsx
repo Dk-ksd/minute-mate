@@ -176,7 +176,7 @@ export default function App() {
       </section>
 
       {/* CTA Section */}
-      {/* <section className="py-16 bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
+      <section className="py-16 bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
         <div className="max-w-5xl mx-auto px-6 text-center">
           <h3 className="text-3xl font-bold mb-6">Ready to transform your meetings?</h3>
           <p className="text-xl text-indigo-100 mb-8">Join teams using MinuteMate to save time and improve productivity</p>
@@ -187,7 +187,7 @@ export default function App() {
             <a href="#">Get Started Now</a>
           </button>
         </div>
-      </section> */}
+      </section>
 
       {/* Contact Section */}
       <section id="contact" className="py-16 bg-white">
