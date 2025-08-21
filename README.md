@@ -66,7 +66,7 @@ npm run dev
 
 ##  Environment Variables
 
-Create a `.env` file inside `backend/` (never commit this):
+Create a `.env` file inside `backend/` :
 
 ```ini
 # Django
@@ -80,8 +80,6 @@ GEMINI_API_KEY=your_gemini_key
 # Google Service Account
 # GOOGLE_APPLICATION_CREDENTIALS=path/to/service_account.json
 ```
-
- An example file is included: `backend/.env.example`
 
 ---
 
