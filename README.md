@@ -1,4 +1,4 @@
-# ⏱️ MinuteMate
+#  MinuteMate
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-5.2-green?logo=django)
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🎙️ **Upload audio recordings** of meetings
-* 📝 **AI-based transcription & summarization** (OpenAI + Gemini)
-* 👥 **User-friendly frontend** built with React + Tailwind
-* ⚡ **Scalable backend** using Django
-* 🔑 **Secure storage** of API keys & credentials via `.env`
+*  **Upload audio recordings** of meetings
+*  **AI-based transcription & summarization** (OpenAI + Gemini)
+*  **User-friendly frontend** built with React + Tailwind
+*  **Scalable backend** using Django
+*  **Secure storage** of API keys & credentials via `.env`
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 MInuteMate - Ultimez Technology/
@@ -43,9 +43,9 @@ MInuteMate - Ultimez Technology/
 
 ---
 
-## ⚙️ Setup Guide
+##  Setup Guide
 
-### 🔧 Backend (Django)
+###  Backend (Django)
 
 ```bash
 cd backend
@@ -54,7 +54,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### 🎨 Frontend (React + Vite)
+###  Frontend (React + Vite)
 
 ```bash
 cd frontend
@@ -64,7 +64,7 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file inside `backend/` (never commit this):
 
@@ -81,11 +81,11 @@ GEMINI_API_KEY=your_gemini_key
 # GOOGLE_APPLICATION_CREDENTIALS=path/to/service_account.json
 ```
 
-👉 An example file is included: `backend/.env.example`
+ An example file is included: `backend/.env.example`
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Backend**: Django 5.2 (Python 3.10+)
 * **Frontend**: React 19, Vite, TailwindCSS 4
@@ -94,13 +94,6 @@ GEMINI_API_KEY=your_gemini_key
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🔗 Coming soon 
-
----
-
-## 👨‍💻 Author
-
-**Deekshith K**
-💼 MSc CS (AI & ML) @ Nehru Arts and Science College
+ Coming soon...
