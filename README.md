@@ -50,7 +50,6 @@ MInuteMate - Ultimez Technology/
 ```bash
 cd backend
 pip install -r requirements.txt
-cp .env.example .env   # Add your keys here
 python manage.py migrate
 python manage.py runserver
 ```
