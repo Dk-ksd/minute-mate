@@ -42,6 +42,8 @@ backend/google_service_account.json.json
 backend/temp_uploads/
 media/
 staticfiles/
+backend/venv/
+
 
 # Misc
 *.bak
