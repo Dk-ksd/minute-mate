@@ -90,8 +90,3 @@ GEMINI_API_KEY=your_gemini_key
 * **AI APIs**: OpenAI, Google Gemini
 * **Auth & Storage**: Google Service Account, Django ORM
 
----
-
-##  Live Demo
-
- Coming soon...
