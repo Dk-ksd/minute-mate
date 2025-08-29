@@ -25,14 +25,14 @@
 ```plaintext
 MInuteMate - Ultimez Technology/
 ├── backend/                # Django backend
-│   ├── api/                # Meeting-related APIs
-│   ├── backend/            # Core Django project
-│   ├── db.sqlite3          # Local DB (ignored in git)
+│   ├── api/                
+│   ├── backend/            
+│   ├── db.sqlite3          
 │   ├── manage.py
 │   └── requirements.txt
 │
 ├── frontend/               # React + Vite frontend
-│   ├── src/                # Components & Pages
+│   ├── src/                
 │   ├── public/
 │   └── package.json
 │
