@@ -48,8 +48,9 @@ MInuteMate - Ultimez Technology/
 ###  Backend (Django)
 
 ```bash
-cd backend
+cd minute-mate
 pip install -r requirements.txt
+cd backend
 python manage.py migrate
 python manage.py runserver
 ```
@@ -57,7 +58,7 @@ python manage.py runserver
 ###  Frontend (React + Vite)
 
 ```bash
-cd frontend
+cd .\minute-mate\frontend\
 npm install
 npm run dev
 ```
@@ -74,7 +75,6 @@ SECRET_KEY=replace_me
 DEBUG=True
 
 # AI APIs
-OPENAI_API_KEY=your_openai_key
 GEMINI_API_KEY=your_gemini_key
 
 # Google Service Account
